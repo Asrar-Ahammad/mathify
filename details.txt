@@ -1,0 +1,4 @@
+1. 3D shapes (curved surface area and total surface area and curved surface area and total surface area and curved surface area and total surface area and volume)
+2. Graphs - (linear graph and quadratic graph and cubic graph and hyperbolic graph and exponential graph and logarithmic graph and trigonometric graph)
+3. Add a graph display where a user can enter a function and it will display the graph
+4. Add a page where a user enters a arithematic expression and it will display the result and it plays the animation of the number line displaying how the expression is solved.

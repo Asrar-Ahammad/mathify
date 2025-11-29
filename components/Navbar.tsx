@@ -17,6 +17,7 @@ export function Navbar() {
         { href: "/shapes/2d", label: "2D Shapes", labelUr: "2D اشکال" },
         { href: "/shapes/3d", label: "3D Shapes", labelUr: "3D اشکال" },
         { href: "/graphs", label: "Graphs", labelUr: "گرافس" },
+        { href: "/calculator", label: "Calculator", labelUr: "کیلکولیٹر" },
     ];
 
     return (
