@@ -23,6 +23,11 @@ A beautiful, modern educational web application for exploring geometric shapes a
 - **Visual Representations**: SVG-based 3D visualizations
 - **Detailed Properties**: Faces, edges, vertices, and descriptive details
 
+### 🔢 Calculator
+- **Basic**: Perform simple arithmetic.
+- **Modern Interface**: Clean, user-friendly design.
+- **Responsive**: Adapts to all screen sizes for easy use on any device.
+
 ### 📊 Mathematical Graphs
 - **9 Graph Types**:
   - Linear (`y = mx + c`)
@@ -97,6 +102,8 @@ npm start
 ```
 mathify/
 ├── app/
+│   ├── calculator/
+│   │   └── page.tsx          # Calculator page
 │   ├── graphs/
 │   │   ├── page.tsx          # Graph types library
 │   │   └── plotter/
@@ -158,6 +165,7 @@ mathify/
 | `/shapes/3d` | 3D geometric shapes library |
 | `/graphs` | Mathematical graph types |
 | `/graphs/plotter` | Interactive function plotter |
+| `/calculator` | Modern calculator with history |
 
 ## 📝 License
 
